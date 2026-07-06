@@ -27,3 +27,9 @@
 - VFX Graph
 - DOTween
 - Unitask
+
+## Шейдер для записи отпечатков снарядов в **Custom Render Texture**
+<img width="1476" height="719" alt="image" src="https://github.com/user-attachments/assets/b3b07489-b985-4b89-8983-844475e87d91" />
+
+## Шейдер для отображение отпечатков на 3D модели
+<img width="1473" height="712" alt="image" src="https://github.com/user-attachments/assets/1f38cca9-f709-497f-aec9-fa39d547829f" />
