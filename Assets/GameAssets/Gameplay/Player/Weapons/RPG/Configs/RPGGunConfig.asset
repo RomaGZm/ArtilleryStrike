@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0471df721e3e3e6448c169485091d195, type: 3}
+  m_Name: RPGGunConfig
+  m_EditorClassIdentifier: Assembly-CSharp::GunConfig
+  data:
+    rid: 3963276669948264521
+  references:
+    version: 2
+    RefIds:
+    - rid: 3963276669948264521
+      type: {class: RPGData, ns: , asm: Gameplay}
+      data:
+        id: 
+        name: 
+        projectilePrefab: {fileID: 8363808851173603714, guid: e61456f5833c1dc41a9b556a166b5e1f, type: 3}
+        explosionPrefab: {fileID: 8768377118265704116, guid: e6eeaa714dd05d84fa7f50d5ba7ce89f, type: 3}
+        fireRate: 0.2
+        reloadTime: 2
+        projectileLifeTime: 4
+        collisionMask:
+          serializedVersion: 2
+          m_Bits: 384
+        projectileRadius: 0.05
+        projectileSpeed: 81
+        projectileGravity: 2.72
+        projectileBounce: 0.6
+        projectileMaxBounce: 2
+        trajectorylineSize: 0.3
